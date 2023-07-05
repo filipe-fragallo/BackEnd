@@ -1,7 +1,7 @@
-# Instagram Clone - Backend
+# Backend
 
 ## Stack Utilizada
-A stack utilizada no projeto do Instagram Clone backend é composta pelos seguintes elementos:
+A stack utilizada no projeto backend é composta pelos seguintes elementos:
 
 - Linguagem: Node.js (versão 14.17.0)
 - Framework: Express.js (versão 4.18.2)
@@ -30,7 +30,7 @@ Siga as etapas abaixo para executar o sistema e realizar testes:
 
 2. Acesse o diretório do projeto:
    ```
-   cd instagramclone
+   cd server
    ```
 
 3. Instale as dependências:
@@ -45,7 +45,7 @@ Siga as etapas abaixo para executar o sistema e realizar testes:
    npm start
    ```
 
-6. O servidor estará em execução em `http://localhost:3000` por padrão. Você pode fazer requisições HTTP para os endpoints disponíveis usando ferramentas como Postman ou integrando o frontend com o backend.
+6. O servidor estará em execução em `http://localhost:5000` por padrão. Você pode fazer requisições HTTP para os endpoints disponíveis usando ferramentas como Postman ou integrando o frontend com o backend.
 
 7. Para executar os testes (caso disponíveis):
    ```
